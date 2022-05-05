@@ -1,0 +1,5 @@
+1)skills1 - API testing
+2)skills2 - mobile testing
+3)skills3 - command line
+4)skills4 - bash basics
+5)SkillsN - SUPER TESTER
