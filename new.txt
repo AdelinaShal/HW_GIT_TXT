@@ -1,1 +1,5 @@
-1) Ada
+1) first name - Ada
+2) surname - Shalygina
+3) age - 25
+4) number of pets - 1
+5) future desired salary - 1000
